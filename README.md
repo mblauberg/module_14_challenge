@@ -135,4 +135,4 @@ This model was very difficult to improve. It's main weakness was its ability to 
 ![](Resources/plots/nb_plot.png)
 
 ### Evaluation
-This model, compared to the original and the optimised ones, trades recall for the buy (1) signal, for the recall for the sell(-1) signal
+This model, compared to the original and the optimised ones, trades recall for the buy (1) signal, for the recall for the sell(-1) signal. Overall this model still performed quite poorly.
